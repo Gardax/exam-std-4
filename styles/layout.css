@@ -393,3 +393,21 @@ table a, #comments a{background-color:inherit;}
 .ptab {
 	text-align: justify;
 }
+
+/* Refactored
+--------------------------------------------------------------------------------------------------------------- */
+.overlay {
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+
+h2.heading {
+	color: orange;
+}
+
+span.block {
+	color: lightblue;
+}
+
+footer a {
+	color: silver;
+}
