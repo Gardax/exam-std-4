@@ -402,3 +402,26 @@ span.block {
 footer a {
 	color: silver;
 }
+
+.three_quarter p {
+	text-align: justify;
+	font-family: Comic Sans MS;
+}
+
+.three_quarter p.italic{
+	font-style: italic;
+	font-weight:600;
+}
+
+.comments ul {
+	background-color: silver;
+}
+
+.one_quarter .sdb_holder_first {
+	background-color: silver;
+}
+
+.one_quarter .sdb_holder_first ul {
+	color: black !important;
+}
+
